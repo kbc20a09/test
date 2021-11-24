@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">レシピ読み上げ</string>
+    <string name="tv_title">レシピ名を入力してください</string>
+    <string name="tv_recipe">レシピを入力してください\n区切って読んでほしい文章ごとに改行を行ってください</string>
+    <string name="bt_recipe">保存する</string>
+    <string name="ts_title">タイトルを入力してください</string>
+    <string name="ts_recipe">レシピを入力してください</string>
+    <string name="dl_msg">操作を選んでください</string>
+    <string name="dl_btn_ok">読み上げ開始</string>
+    <string name="dl_btn_ng">編集</string>
+    <string name="dl_btn_nu">キャンセル</string>
+</resources>
